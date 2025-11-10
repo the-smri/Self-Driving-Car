@@ -1,4 +1,5 @@
-What the Code Does:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5bac278-9b78-442e-9c36-8b2a9a74ca1b" />
+
 Creates a track with a white path on dark background
 
 Places a Tesla car sprite that follows the track automatically
